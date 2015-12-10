@@ -1,0 +1,163 @@
+body p {
+	font-size:1.1em;
+	font-family: "Open Sans", "Helvetica", sans-serif;
+	font-weight: 300;
+}
+
+
+.traner-img {
+	width: 100%;
+}
+.header_text {
+	padding: 3.191489362% 0;
+	color:#606060;
+}
+.header_name{
+	background-color:#fff;
+	color:#505157;
+	padding: 15px 10px;
+	margin:0px auto 40px;
+  box-shadow: 3px 5px 33px #505157; 
+}
+
+.first_block{
+	background: linear-gradient(left top, red , blue);
+	padding:50px 0 0 0;
+}
+.second_block {
+	background-color: background: linear-gradient(left top, red , blue);
+}
+.second_block h2 {
+	color:#8c8c8c;
+	font-weight: 100;
+	margin-top:40px;
+	margin-bottom:20px;
+}
+.images_block .thumbnail{
+	transition:box-shadow .4s;
+	border-radius: 0;
+	border-color:#fff;
+}
+.images_block .thumbnail:hover {
+	box-shadow: 0px 0px 32px black;
+}
+.header-red {
+	background-color: #F44336;
+	color:white;
+	padding:10px 0;
+	box-shadow: 3px 3px 10px #1A1A1C;
+}
+
+
+.fourth_block h2 {
+	margin:40px 0;
+	font-family: serif;
+	color:#323232;
+	font-weight: 300;
+}
+.fourth_block .forth_block_h3 {
+	color: #fff;
+	margin: 5% 0;
+}
+.fourth_block p {
+	font-size:1.1em;
+	font-family: "Open Sans", "Helvetica", sans-serif;
+	font-weight: 300;
+}
+.header_text {
+	font-family: serif;
+	color:#323232;
+	font-weight: 300;
+}
+.third_block {
+	padding-bottom: 40px;
+	background-color:#FF9800;
+	color:#fff;
+	line-height: 1.6;
+
+}
+.fourth_block{
+	background: linear-gradient(135deg, #727272, #B6B6B6);
+	
+
+}
+
+
+.fifth_block{
+	background-color: #323232;
+}
+.fifth_block p{
+	color:#C5C5C5;
+}
+.fifth_block h3 {
+	color: #fff;
+}
+.list-of-win {
+	margin:8% 0;
+}
+.list-of-win li {
+
+	color:#fff;
+}
+.trainer-img{
+	width: 70%;
+}
+.interactive-map {
+	width:100%;
+	padding:12% 0;
+}
+.header_logo {
+ 	max-width: 100px;
+ }
+ .samurai-logo {
+ 	width: 40%;
+ }
+ .buttons {
+ 	list-style: none;
+ 	margin:0;
+ 	padding:0;
+ }
+ .buttons li {
+ 	background: url('images/btn-logo.jpg') no-repeat;
+ 	display: inline-block;
+ 	width: 44px;
+ 	height: 44px;
+  background-position: -69px -14px;
+  border-radius: 22px;
+ }
+ .buttons .button1:hover {
+ 	background-position: -70px -93px;
+ }
+ .buttons .button2 {
+ 	background-position: -131px -14px;
+ }
+ .buttons .button2:hover {
+ 	background-position: -132px -93px;
+ }
+ .buttons .button3 {
+ 	background-position: -190px -14px;
+ }
+ .buttons .button3:hover {
+ 	background-position: -192px -93px;
+ }
+ .buttons li a {
+ 	text-indent: -9999px;
+ 	display: block;
+ 	width: 85px;
+ 	height: 85px;
+ 	cursor: pointer;
+ }
+ .gallery_img a img {
+   margin-bottom: 5px; 
+
+ }
+ .gallery_header{
+   margin-top:5.72519084%;
+   margin-bottom:5.72519084%;
+
+
+ }
+ .gallery_img{
+  padding-bottom:11.450381679%;;
+
+ }
